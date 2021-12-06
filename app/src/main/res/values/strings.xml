@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculeMental</string>
+    <string name="score_bouton_value">Score</string>
+    <string name="nouvelle_partie_bouton_value">Nouvelle partie</string>
+</resources>
